@@ -125,8 +125,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.zetaoffice.net/flathub/ZetaOffice-24-2_156_artifacts_zeta-flatpak-files.tar.xz",
-                    "sha512": "235e6e8105d7153ea5ea12d674b34198b6edf2ad08fbef0f85a2781aa3757704a451df297213c572ca962bd1a436eaae548ef31cabbaa5e6210325303a818f93",
+                    "url": "https://download.zetaoffice.net/flathub/ZetaOffice-24-2_161_artifacts_zeta-flatpak-files.tar.xz",
+                    "sha512": "863756665b5cbe2e1c75d2c4cfd2b5be64f0db966e5bd6cc2d55d5fd4b0b1cc373a7fd70f30b70cdde9f9482e62984400f793751660455558a07fea73eafd280",
                     "dest": "source",
                     "strip-components": 0
                 }
